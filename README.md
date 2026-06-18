@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/huellas-muertas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Huellas muertas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/huellas-muertas/) |
+| **Get License** | [Get License For Huellas muertas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/huellas-muertas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dejando huellas muertas en la calle de Madrid
+> Buscando tu mirada pa' volver a revivir
+> Tú tienes el misterio que me hace no dormir
+> Y en medio de la disco yo te quiero seducir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
