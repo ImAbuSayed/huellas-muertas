@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Huellas muertas
+
+This log tracks the cryptographic history and versioning for the song **Huellas muertas** (huellas-muertas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:27:24.090675 | `v1` | `9743dff207e4fd9319ec226210f9ab2dcb0f2e05e4be1a765cb6121a6fb4dcf9` | `7d6c8aebb0d0af68fbfab1684ed8ef5256582a85f5a29f7b8de46a499da8d83c` | `2026-06-18_huellas-muertas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
